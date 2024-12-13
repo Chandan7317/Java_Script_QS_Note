@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+figure {
+    height: 60px;
+    border: 1px solid black;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+form {
+    border: 1px solid black;
+    height: 300px;
+    width: 30%;
+    margin: 20px auto;
+}
+form>h2{
+    text-align: center;
+}
+form >input{
+    margin: 20px auto;
+    margin-left: 34%;
+   
+}
+
